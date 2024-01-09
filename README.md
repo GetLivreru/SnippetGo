@@ -1,4 +1,5 @@
 # SnippetGO
+# Kaiyrbekov Adilet 
 # SnippetBox Project
 
 <p align="center">
