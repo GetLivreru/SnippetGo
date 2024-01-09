@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"snippetbox.yelnurabdrakhmanov.net/internal/models"
+	"snippetbox.kaiyrbekovadilet.net/internal/models"
 
 	"github.com/alexedwards/scs/mysqlstore"
 	"github.com/alexedwards/scs/v2"
