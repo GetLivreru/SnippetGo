@@ -1,4 +1,4 @@
-const navbLinks = document.querySelectorAll<HTMLAnchorElement>("nav a");
+const navLinks = document.querySelectorAll<HTMLAnchorElement>("nav a");
 
 for (let i = 0; i < navLinks.length; i++) {
     const link = navLinks[i];
