@@ -21,7 +21,7 @@ This project is a harmonious blend of technologies:
 
 - **Go**: The backbone of the server.
 - **[Your Framework]**: Empowering seamless development.
-- **[Your Database]**: Ensuring data persistence.
+- **MySQL**: Ensuring data persistence.
 - **SCSS**: Crafting beautiful stylesheets.
 - **TypeScript**: Bringing dynamic behavior to the frontend.
 - **HTML**: The essence of structured content.
