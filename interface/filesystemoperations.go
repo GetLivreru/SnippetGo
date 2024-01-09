@@ -11,4 +11,16 @@ func main(){
 	if err != nil {
 		fmt.Println("Failed to create file system:", err)
 	return
+	// Обработка запросов для файлов из встроенной HTML-директории
+	http.Handle("/html/", http.StripPrefix("/html/", http.FileServer(http.FS(fileSystem))))
+
+	// Обработка запросов для файлов из встроенной Static-директории
+	http.Handle("/html/", http.StripPrefix("/html/", http.FileServer(http.FS(fileSystem))))
+
+
+
+
+
+
+
 }
