@@ -20,7 +20,6 @@ SnippetBox is a stylish web service inspired by Alex Edwards' "Let's Go" book, t
 This project is a harmonious blend of technologies:
 
 - **Go**: The backbone of the server.
-- **[Your Framework]**: Empowering seamless development.
 - **MySQL**: Ensuring data persistence.
 - **SCSS**: Crafting beautiful stylesheets.
 - **TypeScript**: Bringing dynamic behavior to the frontend.
@@ -31,4 +30,4 @@ This project is a harmonious blend of technologies:
 1. Ensure you have Go installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/[GetLivreru]/snippetbox.git
+   git clone https://github.com/GetLivreru/snippetbox.git
