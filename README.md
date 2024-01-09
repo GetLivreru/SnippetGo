@@ -2,7 +2,7 @@
 # SnippetBox Project
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="SnippetBox Logo">
+  <img src="https://link-to-your-black-logo.com" alt="SnippetBox Black Logo">
 </p>
 
 ## Overview
