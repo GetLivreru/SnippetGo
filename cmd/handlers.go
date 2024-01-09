@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/julienschmidt/httprouter"
-	"snippetbox.yelnurabdrakhmanov.net/internal/models"
-	"snippetbox.yelnurabdrakhmanov.net/internal/validator"
+	"snippetbox.kaiyrbekovadilet.net/internal/models"
+	"snippetbox.kaiyrbekovadilet.net/internal/validator"
 )
 
 func (app *application) home(w http.ResponseWriter, r *http.Request) {
@@ -322,7 +322,6 @@ func (app *application) accountPasswordUpdatePost(w http.ResponseWriter, r *http
 		}
 		return
 	}
-	
 	app.sessionManager.Put(r.Context(), "flash", "Your password has been updated!")
 	http.Redirect(w, r, "/account/view", http.StatusSeeOther)
 }
