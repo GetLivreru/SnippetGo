@@ -1,1 +1,1 @@
-# Snippet-GO-
+# SnippetGO
