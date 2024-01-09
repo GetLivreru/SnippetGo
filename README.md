@@ -31,11 +31,7 @@ This project is a harmonious blend of technologies:
 2. Clone the repository:
    ```bash
    git clone https://github.com/GetLivreru/snippetbox.git
-Navigate to the project directory:
-bash
-Copy code
-cd snippetbox
-Launch the application:
-bash
-Copy code
-go run main.go   
+## Navigate to the project directory:
+    cd snippetbox
+## Launch the application:
+    go run main.go   
