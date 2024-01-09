@@ -6,3 +6,7 @@ import (
 
 //go:embed "html" "templates"
 var Files embed.FS
+func main(){
+
+	
+}
