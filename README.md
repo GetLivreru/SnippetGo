@@ -2,7 +2,7 @@
 # SnippetBox Project
 
 <p align="center">
-  <img src="https://link-to-your-black-logo.com" alt="SnippetBox Black Logo">
+  <img src="https://lets-go.s3.amazonaws.com/og-image.png" alt="SnippetBox Black Logo">
 </p>
 
 ## Overview
