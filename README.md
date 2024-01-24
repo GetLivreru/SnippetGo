@@ -25,13 +25,18 @@ This project is a harmonious blend of technologies:
 - **TypeScript**: Bringing dynamic behavior to the frontend.
 - **HTML**: The essence of structured content.
 
-## Installation
+## 1.Installation
 
 1. Ensure you have Go installed.
 2. Clone the repository:
    ```bash
    git clone https://github.com/GetLivreru/snippetbox.git
-## Navigate to the project directory:
+
+
+## 2.Navigate to the project directory:
+     
     cd snippetbox
-## Launch the application:
+
+    
+## 3.Launch the application:
     go run main.go   
