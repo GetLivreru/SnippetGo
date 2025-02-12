@@ -20,7 +20,7 @@ SnippetBox is a stylish web service inspired by Alex Edwards' "Let's Go" book, t
 This project is a harmonious blend of technologies:
 
 - **Go**: The backbone of the server.
-- **MySQL**: Ensuring data persistence.
+- **PostgreSQL**: Ensuring data persistence.
 - **SCSS**: Crafting beautiful stylesheets.
 - **JavaScript**: Bringing dynamic behavior to the frontend.
 - **HTML**: The essence of structured content.
